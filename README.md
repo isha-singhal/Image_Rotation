@@ -1,7 +1,8 @@
 # Week1-project
 ## IMAGE ROTATION
 This project implements Image Processing in C++ using Open CV.
-Rotating images by a given angle is a common image processing task. Although it seems little bit complicated, OpenCV provides some built-in functions making it easy to do it. 
+Rotating images by a given angle is a common image processing task. Although it seems little bit complicated, OpenCV provides some built-in functions making it easy to do it.
+In this project an image and an angle is taken as input from user, the image is read and then rotated by the given angle. The rotated image is also displayed.
 
 #### PROGRAMMING LANGUAGE USED: C++
 #### PLATFORM USED: MICROSOFT VISUAL STUDIO 2019
